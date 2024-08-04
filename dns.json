@@ -1,10 +1,10 @@
 {
   "youtube.yap": {
     "ip": "youtube.com",
-    "http": "httx://youtube.yap",
+    "http": "httx://youtube.yap"
   },
   "google.wtf": {
     "ip": "google.wtf",
-    "http": "httx://google.wtf",
+    "http": "httx://google.wtf"
   }
 }
